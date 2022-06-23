@@ -1,0 +1,235 @@
+* { 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
+  } 
+.backgroundwhite{
+    width: 1000px;
+    height: 1000px;
+    background-color: white;
+}  
+.maintextblue{
+    position: absolute;
+    color: #4c7ec5;
+    left: 135px;
+    top: 150px;
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Fascinate', cursive;
+font-family: 'Kdam Thmor Pro', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Montserrat Alternates', sans-serif;
+font-family: 'Rubik Moonrocks', cursive;
+font-family: 'Staatliches', cursive;
+font-size: 20px;
+
+
+
+}
+.maintextblack{
+    position: absolute;
+    color: rgb(0, 0, 0);
+    left: 135px;
+    top: 172px;
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Fascinate', cursive;
+font-family: 'Kdam Thmor Pro', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Montserrat Alternates', sans-serif;
+font-family: 'Rubik Moonrocks', cursive;
+font-family: 'Staatliches', cursive;
+
+
+}
+.maintextblack2{
+    position: absolute;
+    color: black;
+    left: 135px;
+    top: 185px;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Fascinate', cursive;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-family: 'Rubik Moonrocks', cursive;
+    font-family: 'Staatliches', cursive;
+
+
+}
+.text1{
+    position: absolute;
+    color: dimgray;
+    left: 150px;
+    top: 230px;
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Fascinate', cursive;
+font-family: 'Kdam Thmor Pro', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Montserrat Alternates', sans-serif;
+font-family: 'Rubik Moonrocks', cursive;
+font-family: 'Staatliches', cursive;
+
+
+
+}
+.text2{
+position: absolute;
+
+    color: dimgray;
+    left: 135px;
+    top: 250px;
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Fascinate', cursive;
+font-family: 'Kdam Thmor Pro', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Montserrat Alternates', sans-serif;
+font-family: 'Rubik Moonrocks', cursive;
+font-family: 'Staatliches', cursive;
+
+}
+.text3{
+    position: absolute;
+
+    color: dimgray;
+    left: 150px;
+    top: 302px;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Fascinate', cursive;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-family: 'Rubik Moonrocks', cursive;
+    font-family: 'Staatliches', cursive;
+}
+.text4{
+    position: absolute;
+    color: dimgray;
+    left: 135px;
+    top: 322px;
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Fascinate', cursive;
+font-family: 'Kdam Thmor Pro', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Montserrat Alternates', sans-serif;
+font-family: 'Rubik Moonrocks', cursive;
+font-family: 'Staatliches', cursive;
+}
+.text5{
+    position: absolute;
+    color: dimgray;
+    left: 150px;
+    top: 374px;
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Fascinate', cursive;
+font-family: 'Kdam Thmor Pro', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Montserrat Alternates', sans-serif;
+font-family: 'Rubik Moonrocks', cursive;
+font-family: 'Staatliches', cursive;
+}
+.text6{
+
+    position: absolute;
+    color: dimgray;
+    left: 135px;
+    top: 394px;
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Fascinate', cursive;
+font-family: 'Kdam Thmor Pro', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Montserrat Alternates', sans-serif;
+font-family: 'Rubik Moonrocks', cursive;
+font-family: 'Staatliches', cursive;
+}
+.text7{
+    position: absolute;
+    color: dimgray;
+    left: 135px;
+    top: 414px;
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Fascinate', cursive;
+font-family: 'Kdam Thmor Pro', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Montserrat Alternates', sans-serif;
+font-family: 'Rubik Moonrocks', cursive;
+font-family: 'Staatliches', cursive;
+}
+.button{
+    position: absolute;
+    left: 135px;
+    top: 454px;
+    background-color: #0066ff;
+    border-radius: 5px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: azure;
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Fascinate', cursive;
+font-family: 'Kdam Thmor Pro', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Montserrat Alternates', sans-serif;
+font-family: 'Rubik Moonrocks', cursive;
+font-family: 'Staatliches', cursive;
+cursor: default; 
+left: 135px;
+top: 454px;
+}
+.button:hover{
+    border: #0066ff solid black;
+    background-color: blue; 
+}
+.button:active{ 
+    background-color: rgb(196, 29, 29); 
+  }
+.point1{
+
+   font-size: 30px;
+   font-weight:700;
+    color: #0066ff;
+    border-radius: 0 ;
+    position: absolute;
+   left: 135px;
+   top: 214px;
+
+}
+.point2{
+
+    font-size: 30px;
+    font-weight:700;
+     color: #0066ff;
+     border-radius: 0 ;
+     position: absolute;
+    left: 135px;
+    top: 284px;
+ 
+ }
+ .point3{
+
+    font-size: 30px;
+    font-weight:700;
+     color: #0066ff;
+     border-radius: 0 ;
+     position: absolute;
+    left: 135px;
+    top: 356px;
+ 
+ }
+  .phot1 {
+    position: absolute;
+    left: 600px;
+    width: 550px;
+    
+
+
+
+ }
+ .phot2{
+position: absolute;
+left: 700px;
+top: 130px;
+width: 550px;
+    
+
+ }
+
